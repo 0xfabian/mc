@@ -1,4 +1,4 @@
-# mc
+# Minecraft
 
 ![img1](https://github.com/0xfabian/mc/blob/main/screenshots/1.png)
 ![img2](https://github.com/0xfabian/mc/blob/main/screenshots/2.png)

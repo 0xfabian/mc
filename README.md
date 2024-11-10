@@ -1,6 +1,6 @@
 # Minecraft Clone in C++
 
-This project is a Minecraft-inspired voxel game written in C++ with OpenGL. It uses SDL for window management, `stb_image` for texture handling, and `SimplexNoise` for procedural terrain generation. The game features chunk-based world generation, collision detection, block interaction, a block selection UI, and a day-night cycle with smooth lighting.
+This project is a Minecraft-inspired voxel game written in C++ with `OpenGL`. It uses `SDL` for window management, `stb_image` for texture handling, and `SimplexNoise` for procedural terrain generation. The game features chunk-based world generation, collision detection, block interaction, a block selection UI, and a day-night cycle with smooth lighting.
 
 ## Features
 
